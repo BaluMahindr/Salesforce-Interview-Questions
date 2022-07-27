@@ -1,0 +1,106 @@
+1. Introduction yourself
+2. What is a CRM
+3. What is Salesforce
+4. What is multi-tenant architecture?
+5. Why did you shift from your previous domain to SFDC?
+6. What project did you do at Stratos on Salesforce
+7. What are the training sessions you completed at Stratos?       ADX-201, DEX403, DEX 450, DEX 602 
+8. Previous technologies & Projects worked on previous to Salesforce  
+
+
+
+
+*************  Introduce Yourself   **************
+
+
+Greetings to the Panel:
+
+Name: 
+
+Graduation:
+
+Professional Experience: HSBC Software Development Ltd. : A Global Financial Service Platform.
+
+Salesforce Administrator: Data And Analytics Management / Production and Collaboration  -  Validation Rules, Assignment Rules,Auto-Response rules,Chatter 
+
+Workflows and Process Builder/  Service Console.
+
+Front End Technologies : HTML,CSS, Javascript.
+
+Programing languages : Java And Apex.
+
+Ticketing Tool: Jira
+
+Integrated Tools: Data loader and Data Import Wizard.
+
+Personal traits: I'm keen on learning New things and Never hesitate to ask anything I don't know.
+
+Focus,Strategic,Descipline
+
+Hobbies:Watching News : Gravitas
+
+Reading Books: Recent one : Ikigia.
+
+
+
+
+
+******************      What is a CRM    *****************
+
+Customers are the cornerstone of any business
+
+CRM stands for customer relationship management. As the name suggests, it focuses on managing all relationships with current and potential customers. 
+CRM allows businesses to stay connected with customers, build lasting relationships, and streamline all customer-related processes.
+
+CRM can be as simple as keeping records of your customers and the products they’ve brought. 
+Today, as businesses become more customer-centric and gain access to large amounts of readily available data, 
+dedicated CRM tools and software can add more value to this process in the following ways. 
+
+
+***************     What is Salesforce  **********
+
+
+Salesforce is a Cloud-based Multitenant Archtecture and Customer-oriented CRM.
+
+Salesforce is the leading CRM platform in the world with a 19.8% market share.
+
+
+In 1999 Marc Benioff found Salesforce to deliver software to customers over the cloud 24/7.
+
+Constant innovation and understanding the upcoming trends in the market earlier than the others. 
+
+
+**************  What is multi-tenant architecture? ***********
+
+
+ It enables multiple clients to share a single application developed with the same infrastructure and technology.
+
+Governor ilmits to eliminate Monopoly of Shared-Resources.
+
+ 
+*****************    What project did you do at Stratos on Salesforce      **************
+
+
+IT Compnay Solutions Project. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
